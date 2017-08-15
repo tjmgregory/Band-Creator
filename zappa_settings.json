@@ -1,0 +1,7 @@
+{
+	"dev":{
+        "lambda_handler":"band_creator.handler",
+		"keep_warm":false,
+		"apigateway_enabled":false
+	}
+}
